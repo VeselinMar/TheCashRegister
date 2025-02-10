@@ -1,10 +1,10 @@
 # TheCashRegister
 
-##Overview
+## Overview
 
 The Cash Register App is a simple, portable point-of-sale system designed for small businesses and individual vendors who need a quick and easy way to manage transactions. It is particularly useful in situations where a traditional cash register is unavailable. The app features an intuitive interface with large buttons, making it easy to use even when placed on a table without holding the phone.
 
-##Features
+## Features
 
 User-friendly Interface: Large buttons for effortless interaction.
 
