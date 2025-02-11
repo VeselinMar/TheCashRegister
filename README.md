@@ -2,7 +2,10 @@
 
 ## Overview
 
-The Cash Register App is a simple, portable point-of-sale system designed for small businesses and individual vendors who need a quick and easy way to manage transactions. It is particularly useful in situations where a traditional cash register is unavailable. The app features an intuitive interface with large buttons, making it easy to use even when placed on a table without holding the phone.
+Working a bar on weekends?
+Cash register always malfunctions?
+You wish you could stop keeping track of sold produce using a pen and paper?
+Here is TheCashRegister
 
 ## Features
 
@@ -12,13 +15,11 @@ Basic Transaction Handling: Allows simple calculations for quick transactions.
 
 Optimized for Mobile Use: Developed and tested on Pydroid 3 for Android.
 
-Portable & Lightweight: No complex setup; just run the executable and start using it.
+Portable & Lightweight: No complex setup; just run the executable with Pydroid 3 and start using it.
 
 ## Requirements
 
 Android device with Pydroid 3 installed.
-
-Python libraries (if required): Ensure dependencies are installed within Pydroid 3.
 
 ## Steps to Install
 
