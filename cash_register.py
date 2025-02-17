@@ -3,7 +3,7 @@ from tkinter.simpledialog import askstring, askfloat
 from tkinter import messagebox  # For displaying message box
 
 
-class CalculatorApp:
+class CashRegisterApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Dynamic Blocks")
@@ -207,5 +207,5 @@ class CalculatorApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = CalculatorApp(root)
+    app = CashRegisterApp(root)
     root.mainloop()
